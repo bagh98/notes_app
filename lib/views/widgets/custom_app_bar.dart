@@ -4,7 +4,9 @@ import 'package:nots_app/views/widgets/custom_icon.dart';
 class CustomAppBAr extends StatelessWidget {
   final String text;
   final IconData icon;
-  const CustomAppBAr({super.key, required this.text, required this.icon});
+  final VoidCallback? onTap;
+  const CustomAppBAr(
+      {super.key, required this.text, required this.icon, this.onTap});
 
   @override
   Widget build(BuildContext context) {
@@ -17,7 +19,8 @@ class CustomAppBAr extends StatelessWidget {
           ),
         ),
         const Spacer(),
-        CustomSearchIcon(
+        CustomIcon(
+          onTap: onTap,
           icon: icon,
         ),
       ],
