@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:nots_app/views/widgets/custom_icon.dart';
+import 'package:nots_app/views/widgets/custom_widgets/custom_icon.dart';
 
 class CustomAppBAr extends StatelessWidget {
   final String text;

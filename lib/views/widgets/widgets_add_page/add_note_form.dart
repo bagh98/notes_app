@@ -3,10 +3,10 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:intl/intl.dart';
 import 'package:nots_app/cubits/add_note_cubit/add_notes_cubit.dart';
 
-import '../../models/note_model.dart';
+import '../../../models/note_model.dart';
 import 'colors_list view .dart';
-import 'custom_buttom.dart';
-import 'custom_text_field.dart';
+import '../custom_widgets/custom_buttom.dart';
+import '../custom_widgets/custom_text_field.dart';
 
 class AddNoteForm extends StatefulWidget {
   const AddNoteForm({
