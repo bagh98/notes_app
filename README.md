@@ -59,11 +59,11 @@ Follow these steps to set up and run the project on your local machine.
    flutter pub get 
 
 3.**Run the app**:
-  ```bash
+   ```bash
 
    flutter run
 
-.
+
 ### How to Use the App 🧑‍💻
 1. **Add a Note**:
 
