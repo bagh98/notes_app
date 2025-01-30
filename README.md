@@ -58,7 +58,6 @@ Follow these steps to set up and run the project on your local machine.
 ```bash
    flutter pub get 
 
-
 3.  **Run the app**:
 ```bash
    flutter run
