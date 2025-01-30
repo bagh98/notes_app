@@ -55,11 +55,11 @@ Follow these steps to set up and run the project on your local machine.
    cd your-repo-name
    
 2. **flutter pub get**:
-
+   ```bash
    flutter pub get 
 
 3.**Run the app**:
-
+  ```bash
 
    flutter run
 
@@ -67,33 +67,33 @@ Follow these steps to set up and run the project on your local machine.
 ### How to Use the App 🧑‍💻
 1. **Add a Note**:
 
-Tap the "Add Note" button.
+ .Tap the "Add Note" button.
 
-Enter a title and description.
+ .Enter a title and description.
 
-Save the note.
+ .Save the note.
 
 2. **Edit a Note**:
 
-Tap on an existing note in the list.
+ .Tap on an existing note in the list.
 
-Update the title or description.
+ .Update the title or description.
 
-Save the changes.
+ .Save the changes.
 
 3.**Delete a Note**:
 
-click in the trash icon 
+ .click in the trash icon 
 
 **Contributing 🤝**
-Contributions are welcome! If you'd like to contribute, please follow these steps:
+ .Contributions are welcome! If you'd like to contribute, please follow these steps:
 
-1.Fork the repository.
+ 1.Fork the repository.
 
-2.Create a new branch (git checkout -b feature/YourFeatureName).
+ 2.Create a new branch (git checkout -b feature/YourFeatureName).
 
-3.Commit your changes (git commit -m 'Add some feature').
+ 3.Commit your changes (git commit -m 'Add some feature').
 
-4.Push to the branch (git push origin feature/YourFeatureName).
+ 4.Push to the branch (git push origin feature/YourFeatureName).
 
-5.Open a pull request.
+ 5.Open a pull request.
