@@ -54,13 +54,11 @@ Follow these steps to set up and run the project on your local machine.
    git clone https://github.com/your-username/your-repo-name.git
    cd your-repo-name
 2. **flutter pub get**:
-   ```bash
-   flutter pub get 
-3.**Run the app**:
-   ```bash
-   flutter run
+      ```bash
+     flutter pub get
+     flutter run
 
-
+---
 ### How to Use the App 🧑‍💻
 1. **Add a Note**:
 
