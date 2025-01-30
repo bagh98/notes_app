@@ -55,11 +55,12 @@ Follow these steps to set up and run the project on your local machine.
    cd your-repo-name
    
 2. **flutter pub get**:
-```bash
+
    flutter pub get 
 
-3.  **Run the app**:
-```bash
+3.**Run the app**:
+
+
    flutter run
 
 
