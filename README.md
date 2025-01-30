@@ -63,7 +63,7 @@ Follow these steps to set up and run the project on your local machine.
 
    flutter run
 
-
+.
 ### How to Use the App 🧑‍💻
 1. **Add a Note**:
 
