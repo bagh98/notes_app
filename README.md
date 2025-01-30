@@ -49,20 +49,19 @@ Follow these steps to set up and run the project on your local machine.
 
 ### Installation
 
-1. **Clone the repository**:
+ 1. **Clone the repository**:
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
    cd your-repo-name
    
-2. **flutter pub get**:
+ 2. **flutter pub get**:
    ```bash
    flutter pub get 
 
-3.**Run the app**:
+ 3.**Run the app**:
    ```bash
 
    flutter run
-
 
 ### How to Use the App 🧑‍💻
 1. **Add a Note**:
